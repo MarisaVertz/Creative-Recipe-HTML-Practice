@@ -1,7 +1,7 @@
-<h4>Travel Agency Blog</h4>
+<h4>Unique Recipe Project</h4>
 <p>In this project we had to create a "<strong>unique</strong> recipe" with basic HTML properties. For the record, I'm not particularly a 'Swiftie' but I was having a dreary day when I made this and it made me laugh so I went with it.</p>
 <a href="https://marisavertz.github.io/Unique-Recipe-HTML-practice/">
-  <img src="https://raw.githubusercontent.com/MarisaVertz/Travel-Agency-Blog/refs/heads/main/TravelAgencyBlog.png" width="300">
+  <img src="https://raw.githubusercontent.com/MarisaVertz/Unique-Recipe-HTML-practice/refs/heads/main/recipe.png" width="300">
 </a>
 <br><br>
 <a href="https://marisavertz.github.io/Unique-Recipe-HTML-practice/">
